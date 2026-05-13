@@ -17,16 +17,6 @@ This project is an interactive Sales and Profit Dashboard created using Microsof
 - Charts & Graphs
 - Data Cleaning
 - Data Visualization
-
-## Dashboard Preview
-![Dashboard](dashboard.png)
-
-## Key Insights
-- Identified top-performing regions and categories
-- Analyzed profit and sales trends
-- Compared business performance across different segments
-- Improved data interpretation through visual dashboards
-
 ## Files Included
 - Sales and Profit Dashboard Data.xlsx
 - dashboard.png
