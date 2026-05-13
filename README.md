@@ -31,9 +31,6 @@ This project is an interactive Sales and Profit Dashboard created using Microsof
 - Sales and Profit Dashboard Data.xlsx
 - dashboard.png
 - README.md
-
-## Author
-Pranshu Tiwari
 ## Key Insights
 - The dashboard highlights overall sales and profit performance across different regions.
 - Identified the highest revenue-generating product categories.
